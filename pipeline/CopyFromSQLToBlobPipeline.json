@@ -55,7 +55,7 @@
 				]
 			},
 			{
-				"name": "Wait for a second",
+				"name": "Waits for a second",
 				"type": "Wait",
 				"dependsOn": [
 					{
